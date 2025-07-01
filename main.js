@@ -104,7 +104,7 @@ function handleNavbarScroll() {
 
 // Download CV functionality
 function downloadCV() {
-    const cvLink = "https://drive.google.com/file/d/1r2rz-w_HqqsEPAI971NafIxeyrI3pnLp/view?usp=sharing";
+    const cvLink = "https://youtu.be/Pirzg-F_aag?si=nAPXgCjSTtPRY1V7";
     window.open(cvLink, "_blank"); // Opens in new tab
 }
 
